@@ -1,4 +1,2 @@
 hello world
-hello java
-hello spring
-hello github
+hello python
